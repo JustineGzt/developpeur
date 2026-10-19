@@ -30,6 +30,7 @@ export interface Projet {
   description?: string
   technos?: string[]
   url?: string
+  accent?: string
 }
 
 export interface Formule {
